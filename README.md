@@ -18,6 +18,9 @@ This project implements an image classifier using TensorFlow. It involves loadin
 - `imghdr`: For image type validation.
 - `cv2` (OpenCV): For advanced image processing.
 
+## Data
+- Download the dataset from this https://www.kaggle.com/datasets/sanidhyak/human-face-emotions
+
 ## How to Run
 1. **Install Dependencies**:
    Ensure you have Python installed. Use the following command to install the required libraries:
